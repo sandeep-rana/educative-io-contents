@@ -15,7 +15,7 @@
 
 ## Pattern 2: Unbounded Knapsack
 
-1. [Unbounded Knapsack](https://www.geeksforgeeks.org/unbounded-knapsack-repetition-items-allowed/) [Solution](https://practice.geeksforgeeks.org/problems/knapsack-with-duplicate-items4201/1)
+1. [Unbounded Knapsack](https://www.geeksforgeeks.org/unbounded-knapsack-repetition-items-allowed/) [(Solution)](https://practice.geeksforgeeks.org/problems/knapsack-with-duplicate-items4201/1)
 2. [Rod Cutting](https://www.geeksforgeeks.org/cutting-a-rod-dp-13/)
 3. [Coin Change](https://www.geeksforgeeks.org/coin-change-dp-7/)
 4. [Minimum Coin Change](https://www.geeksforgeeks.org/find-minimum-number-of-coins-that-make-a-change/)
