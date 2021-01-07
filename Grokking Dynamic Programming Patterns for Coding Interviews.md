@@ -19,7 +19,7 @@
 2. [Rod Cutting](https://www.geeksforgeeks.org/cutting-a-rod-dp-13/) [(Solution - Exactly same to unbounded knapsack)]
 3. [Coin Change](https://www.geeksforgeeks.org/coin-change-dp-7/)
 4. [Minimum Coin Change](https://www.geeksforgeeks.org/find-minimum-number-of-coins-that-make-a-change/) [(Solution)](https://leetcode.com/problems/coin-change/submissions/)
-5. [Maximum Ribbon Cut](https://www.geeksforgeeks.org/maximum-number-segments-lengths-b-c/)
+5. [Maximum Ribbon Cut](https://www.geeksforgeeks.org/maximum-number-segments-lengths-b-c/) (Exactly similar to Min coin change)
 
 
 
