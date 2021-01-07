@@ -16,8 +16,8 @@
 ## Pattern 2: Unbounded Knapsack
 
 1. [Unbounded Knapsack](https://www.geeksforgeeks.org/unbounded-knapsack-repetition-items-allowed/) [(Solution)](https://practice.geeksforgeeks.org/problems/knapsack-with-duplicate-items4201/1)
-2. [Rod Cutting](https://www.geeksforgeeks.org/cutting-a-rod-dp-13/) [(Solution - Exactly same to unbounded knapsack)]
-3. [Coin Change](https://www.geeksforgeeks.org/coin-change-dp-7/)
+2. [Rod Cutting](https://www.geeksforgeeks.org/cutting-a-rod-dp-13/) (Solution - Exactly same to unbounded knapsack)
+3. [Coin Change](https://www.geeksforgeeks.org/coin-change-dp-7/) [(Solution)](https://leetcode.com/problems/coin-change-2/submissions/)
 4. [Minimum Coin Change](https://www.geeksforgeeks.org/find-minimum-number-of-coins-that-make-a-change/) [(Solution)](https://leetcode.com/problems/coin-change/submissions/)
 5. [Maximum Ribbon Cut](https://www.geeksforgeeks.org/maximum-number-segments-lengths-b-c/) (Exactly similar to Min coin change)
 
